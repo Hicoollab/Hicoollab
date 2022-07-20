@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Hicoollab
+- 👋 Hi, I’m @hicoollabs
 - 👀 I’m interested in code
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on soon
-- 📫 How to reach me amprolabnk21s@hotmail.com
+- 📫 How to reach me backend@hicoollabs.com
